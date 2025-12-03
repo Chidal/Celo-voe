@@ -160,7 +160,7 @@ Fork Thumb. Ship your idea in hours, not weeks.
 |-------------|------------------------------------|------------|
 | Wave 1      | Frame → Live Feed                  | Complete   |
 | Wave 2      | AI Summaries + Real-Time           | Complete   |
-| Wave 3      | Full Mini App + Dev Dashboard      | Complete   |
+| Wave 3      | Full Mini App + Dev Dashboard      | In Progress |
 | Wave 4      | Predictions + Social Games         | In Progress |
 | Wave 5      | SDK Release + Ecosystem Hub        | Next       |
 
