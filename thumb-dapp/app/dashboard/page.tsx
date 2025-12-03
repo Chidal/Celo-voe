@@ -72,7 +72,7 @@ export default function Dashboard() {
         variants={fadeIn}
       >
         <h1 className="text-3xl md:text-4xl lg:text-5xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 drop-shadow-lg animate-pulse">
-          0G-VOE
+          Pulse
         </h1>
         <div className="flex items-center gap-3">
           <div
@@ -142,7 +142,7 @@ export default function Dashboard() {
           transition={{ delay: 1 }}
         >
           <p className="text-sm text-gray-400">
-            Streaming live from <span className="text-cyan-400 font-mono">0G Testnet</span> ·{' '}
+            Streaming live from <span className="text-cyan-400 font-mono">Polygon testnet</span> ·{' '}
             {transactions.length} events cached
           </p>
         </motion.div>
