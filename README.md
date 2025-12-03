@@ -1,5 +1,4 @@
 # Thumb
-**Built for**: Production-grade Farcaster Mini Apps on Celo  
 
 ## Overview
 
